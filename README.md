@@ -4,8 +4,8 @@
   </h1>
 </div>
 
-<div align="center">
-  <div>
+<div>
+  <div align="center">
     <h2>✨About me✨</h2>
   </div>
   <p>
@@ -18,6 +18,21 @@
   </p>
 </div>
 
+<div>
+  <div align="center">
+    <h2>📫Social</h2>
+    <a href="https://www.linkedin.com/in/raphael-gramosa-a090a7230/" target="_blank">
+      <img alt="LinkedIn Badge" src="https://img.shields.io/badge/Linkedin-0E76A8?style=for-the-badge&logo=linkedin&logoColor=ffffff">
+    </a>
+  </div>
+</div>
+
+<div>
+  <div align="center">
+    <h2>🔧Projects</h2>
+    <p>Working on...</p>
+  </div>
+</div>
 
 <!--
 **Gramosa/Gramosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
